@@ -1,7 +1,7 @@
 import os
 
   
-shutdown = input("Do you wish to power comandlog your computer ? shutdown / restart / log : ")
+shutdown = input("Do you wish to powe comandlog your computer ? shutdown / restart / log : ")
   
 if shutdown == 'no':
     exit()
